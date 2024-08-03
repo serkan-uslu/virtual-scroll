@@ -1,5 +1,11 @@
 # Virtual Scroll Example
 
+<div style="text-align:center">
+
+![image](https://github.com/user-attachments/assets/93979fee-03f4-4cba-b45e-d94420d6579c)
+
+</div>
+
 Bu proje, React ile uygulanmış bir sanal kaydırma bileşenini gösterir. `VirtualScroll` bileşeni, yalnızca görünen öğeleri ve küçük bir tamponu render ederek büyük bir öğe listesini verimli bir şekilde render eder.
 
 ## İçindekiler
